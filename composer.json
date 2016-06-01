@@ -1,0 +1,12 @@
+{
+    "name": "evgeny/qr-read",
+    "authors": [
+        {
+            "name": "Evgeny Glebov",
+            "email": "eglebov@4xxi.com"
+        }
+    ],
+    "require": {
+        "libern/qr-code-reader": "^1.0"
+    }
+}
